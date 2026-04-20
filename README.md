@@ -14,7 +14,7 @@ Content repository. Posts are published to [dev.to](https://dev.to) via GitHub A
 
 1. Copy `posts/_template.md` to `posts/your-slug.md`.
 2. Fill in front matter. Keep `published: false` until ready.
-3. Open a PR. Merge to `main` when approved.
+3. Open a PR. Merge to `master` when approved.
 4. CI publishes any post with `published: true` and writes back the dev.to article `id` so future edits update the same article.
 
 ## Front matter reference
