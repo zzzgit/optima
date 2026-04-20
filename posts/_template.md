@@ -1,11 +1,16 @@
 ---
-title: "Your Post Title"
+title: Your Post Title
 published: false
-description: "One or two sentences shown in previews and SEO."
-tags: [javascript, webdev, tutorial, beginners]
-cover_image: ""
-canonical_url: ""
-series: ""
+description: One or two sentences shown in previews and SEO.
+tags:
+  - javascript
+  - webdev
+  - tutorial
+  - beginners
+cover_image: ''
+canonical_url: ''
+series: ''
+id: 3526689
 ---
 
 ## Intro
